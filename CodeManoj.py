@@ -14,7 +14,7 @@ line_style = dict(marker = ".",
         linewidth = 2.5)
 plt.title("Code Manoj",
          fontsize = 20,
-         family = "Times New Roman",
+         family = "Times New Roman",                     
          fontweight = "bold",
          color = "#b936c9")
 plt.xlabel("Year",
